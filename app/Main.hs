@@ -5,7 +5,6 @@ import Control.Monad.Trans.Reader (ReaderT)
 import Data.Vector (Vector, (!))
 import qualified Data.Vector as V
 import GenGol
-import GenGol.Types
 import Graphics.Gloss
 import Graphics.Gloss.Data.ViewPort (ViewPort)
 import Options.Generic
